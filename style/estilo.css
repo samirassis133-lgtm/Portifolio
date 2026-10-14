@@ -152,9 +152,10 @@ footer {
 }
 
 /*  altera o padrão do site de acordo com os requisitos. */
-@media (max-width: 1080px) {
+@media (max-width: 820px) {
     body {
-        background-color: rgb(21, 1, 104);
+        background-color:  #FFD700;
+        color: #E3DAC9; 
     }
 
     .cabecalho {
